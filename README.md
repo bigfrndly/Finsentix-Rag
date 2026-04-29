@@ -1,4 +1,4 @@
-# 📈 FinSentix: Production-Grade RAG Dashboard
+# 📈 FinSentix:  RAG Dashboard
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
