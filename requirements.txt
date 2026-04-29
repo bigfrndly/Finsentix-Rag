@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-google-genai
+chromadb>=0.4.24
+sentence-transformers
+rank_bm25
+unstructured
+tiktoken
+ragas
+pytest
+python-dotenv
+pypdf
+streamlit
